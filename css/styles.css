@@ -239,7 +239,6 @@ ul {
 
 .section-products {
   margin: 0;
-  padding-top: 94px;
   padding-bottom: 94px;
 }
 
@@ -365,7 +364,7 @@ ul {
 
 /* customers */
 .customers {
-  padding: 94px 215px;
+  padding: 94px 0;
 }
 
 .customers-compani {
